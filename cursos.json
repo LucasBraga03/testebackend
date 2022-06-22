@@ -1,0 +1,146 @@
+[
+  {
+    "id": 65991,
+    "valor_original": "216.00",
+    "turno": "Online",
+    "duracao": 1,
+    "duracao_tipo": "hora",
+    "desconto": 100,
+    "curso_detalhe": {
+      "categoria_especifica": "Curso Livre",
+      "curso": {
+        "curso": "Multiplicadores - Módulo II"
+      }
+    },
+    "campus": {
+      "cidade": "Nacional",
+      "instituicao": {
+        "instituicao": "Eduplay",
+        "imagem": "eduplay.png"
+      }
+    },
+    "modalidade": {
+      "modalidade": "EAD"
+    }
+  },
+  {
+    "id": 65992,
+    "valor_original": "160.00",
+    "turno": "Online",
+    "duracao": 1,
+    "duracao_tipo": "hora",
+    "desconto": 100,
+    "curso_detalhe": {
+      "categoria_especifica": "Curso Livre",
+      "curso": {
+        "curso": "Excel - Módulo I"
+      }
+    },
+    "campus": {
+      "cidade": "Nacional",
+      "instituicao": {
+        "instituicao": "Eduplay",
+        "imagem": "eduplay.png"
+      }
+    },
+    "modalidade": {
+      "modalidade": "EAD"
+    }
+  },
+  {
+    "id": 65993,
+    "valor_original": "240.00",
+    "turno": "Online",
+    "duracao": 1,
+    "duracao_tipo": "hora",
+    "desconto": 100,
+    "curso_detalhe": {
+      "categoria_especifica": "Curso Livre",
+      "curso": {
+        "curso": "Superação de Metas e Resultados"
+      }
+    },
+    "campus": {
+      "cidade": "Nacional",
+      "instituicao": {
+        "instituicao": "Eduplay",
+        "imagem": "eduplay.png"
+      }
+    },
+    "modalidade": {
+      "modalidade": "EAD"
+    }
+  },
+  {
+    "id": 65994,
+    "valor_original": "728.00",
+    "turno": "Online",
+    "duracao": 1,
+    "duracao_tipo": "hora",
+    "desconto": 100,
+    "curso_detalhe": {
+      "categoria_especifica": "Curso Livre",
+      "curso": {
+        "curso": "Fundamentos da Gestão de Projetos"
+      }
+    },
+    "campus": {
+      "cidade": "Nacional",
+      "instituicao": {
+        "instituicao": "Eduplay",
+        "imagem": "eduplay.png"
+      }
+    },
+    "modalidade": {
+      "modalidade": "EAD"
+    }
+  },
+  {
+    "id": 65995,
+    "valor_original": "210.00",
+    "turno": "Online",
+    "duracao": 1,
+    "duracao_tipo": "hora",
+    "desconto": 100,
+    "curso_detalhe": {
+      "categoria_especifica": "Curso Livre",
+      "curso": {
+        "curso": "Multiplicadores - Módulo III"
+      }
+    },
+    "campus": {
+      "cidade": "Nacional",
+      "instituicao": {
+        "instituicao": "Eduplay",
+        "imagem": "eduplay.png"
+      }
+    },
+    "modalidade": {
+      "modalidade": "EAD"
+    }
+  },
+  {
+    "id": 65996,
+    "valor_original": "160.00",
+    "turno": "Online",
+    "duracao": 1,
+    "duracao_tipo": "hora",
+    "desconto": 100,
+    "curso_detalhe": {
+      "categoria_especifica": "Curso Livre",
+      "curso": {
+        "curso": "Excel - Módulo II"
+      }
+    },
+    "campus": {
+      "cidade": "Nacional",
+      "instituicao": {
+        "instituicao": "Eduplay",
+        "imagem": "eduplay.png"
+      }
+    },
+    "modalidade": {
+      "modalidade": "EAD"
+    }
+  }
+]
